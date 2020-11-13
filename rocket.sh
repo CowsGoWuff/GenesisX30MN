@@ -30,78 +30,77 @@ echo
 echo
 echo
 echo
-sleep 3
+sleep 2
 echo -e "         ! "
-sleep 3
+sleep 2
 echo -e "         !"
-sleep 3
+sleep 2
 echo -e "         ^"
-sleep 3
+sleep 2
 echo -e "        / \\ "
-sleep 3
+sleep 2
 echo -e "       /___\\ "
-sleep 3
+sleep 2
 echo -e "      |=   =|"
-sleep 3
+sleep 2
 echo -e "      |     |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}  G ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}  E ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}  N ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}  E ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}  S ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}  I ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}  S ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}    ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}  X ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}    ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |${BLUE}    ${CLEAR} |"
-sleep 3
+sleep 2
 echo -e "      |     |"
-sleep 3
+sleep 2
 echo -e "      |     |"
-sleep 3
+sleep 2
 echo -e "      |     |"
-sleep 3
+sleep 2
 echo -e "      |     |"
-sleep 3
+sleep 2
 echo -e "     /|##!##|\\"
-sleep 3
+sleep 2
 echo -e "    / |##!##| \\"
-sleep 3
+sleep 2
 echo -e "   /  |##!##|  \\"
-sleep 3
+sleep 2
 echo -e "  | /  ( | )  \\ |"
-sleep 3
+sleep 2
 echo -e "  |  / ^ | ^ \\  |"
-sleep 3
+sleep 2
 echo -e "  |/   ( | )   \\|"
-sleep 3
-echo -e "      ((   ))     ${GREEN} |It was either a rocket, or watch an error  |" ${CLEAR}
-sleep 3
-echo -e "     ((  :  ))    ${GREEN} | repeat itself while the wallet loads      |" ${CLEAR}
-sleep 3
-echo -e "     ((   ))      ${GREEN} |  Seeing Error 28 shortly is expected.     |" ${CLEAR}
-sleep 3
-echo -e "       (( ))      ${GREEN} |               Relax                       |" ${CLEAR}
-sleep 3
+sleep 2
+echo -e "      ((   ))      ${GREEN} | Welcome to GenesisX |" ${CLEAR}
+sleep 2
+echo -e "     ((  :  ))          ${GREEN} | Version |" ${CLEAR}
+sleep 2
+echo -e "      ((   ))             ${GREEN} | 1.5 |" ${CLEAR}  
+echo -e "       (( ))         ${GREEN} | November 2020 |" ${CLEAR}
+sleep 2
 echo -e "        ( )"
-sleep 3
+sleep 2
 echo -e "         .X^"
-sleep 3
+sleep 2
 echo -e "         .G^"
-sleep 3
+sleep 2
 echo -e "         .S^"
-sleep 3
+sleep 2
 echo -e "         .^"
 echo -e "         ."
